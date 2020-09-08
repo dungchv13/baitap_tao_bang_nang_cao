@@ -1,0 +1,18 @@
+.lon{
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    text-align: center;
+    border-collapse: collapse;
+    margin: auto;
+}
+td{
+    width: 50px;
+    height: 50px;
+}
+.odd{
+    background-color: aliceblue;
+}
+.even{
+    background-color: black;
+}

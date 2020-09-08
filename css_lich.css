@@ -1,0 +1,45 @@
+.big {
+    width: 450px;
+    text-align: center;
+    margin: auto;
+}
+
+table{
+    margin: auto;
+    border-collapse: collapse;
+
+}
+.a1{
+    background-color: red;
+    color: white;
+    border: 1px white solid;
+}
+.a2{
+    background-color: orange;
+    color: white;
+    border: 1px white solid;
+}
+.a7{
+    background-color: blue;
+    color: white;
+    border: white 1px solid;
+}
+.mon{
+    border-color: white;
+}
+.sun{
+    color: red;
+ }
+ .sat{
+     color: blue;
+ }
+ td{
+     border: 2px darkgrey solid;
+     width: 60px;
+     height: 30px;
+
+ }
+ th{
+     width: 60px;
+     height: 30px;
+ }
